@@ -1,4 +1,4 @@
-package OperacoesBasicasList;
+package List.OperacoesBasicasList;
 
 public class Item {
     //Atributos

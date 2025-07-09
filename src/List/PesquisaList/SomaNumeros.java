@@ -1,4 +1,4 @@
-package PesquisaList;
+package List.PesquisaList;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -66,7 +66,7 @@ public class SomaNumeros {
         }
     }
 
-    //teste
+    //Set.teste
     public static void main(String[] args) {
         List<Numero> numeros = new ArrayList<>();
         SomaNumeros somaNumeros = new SomaNumeros(numeros);

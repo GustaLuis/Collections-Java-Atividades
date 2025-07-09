@@ -1,4 +1,4 @@
-package PesquisaList;
+package List.PesquisaList;
 
 public class Numero implements Comparable<Numero>{
     //atributos

@@ -1,7 +1,6 @@
-package OrdenacaoList;
+package List.OrdenacaoList;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class OrdenacaoPessoa {
@@ -37,7 +36,7 @@ public class OrdenacaoPessoa {
         //o metodo sort vai entender que ele vai ter que ordenar pelo comparator.
     }
 
-    //teste
+    //Set.teste
     public static void main(String[] args) {
         OrdenacaoPessoa op = new OrdenacaoPessoa();
         op.adicionarPessoa("Alice", 30, 1.65);

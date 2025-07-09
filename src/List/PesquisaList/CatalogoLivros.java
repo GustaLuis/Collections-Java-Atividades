@@ -1,4 +1,4 @@
-package PesquisaList;
+package List.PesquisaList;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -53,7 +53,7 @@ public class CatalogoLivros {
         return livroPorTitulo;
     }
 
-    //teste
+    //Set.teste
     public static void main(String[] args) {
         CatalogoLivros catalogo = new CatalogoLivros();
 
